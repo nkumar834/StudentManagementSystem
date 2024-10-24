@@ -8,9 +8,9 @@ Fee Management: Track fee payments and dues.
 User Authentication: Secure login system for administrators and teachers.
 
 Technologies Used:-
-.NET Framework
-C#
-Windows Forms
+.NET Framework.
+C#.
+Windows Forms.
 
 Installation:-
 Clone the repository:
@@ -21,13 +21,13 @@ Build and run the solution.
 How to Use:-
 Login:
 
-Username: niraj
-Password: 12345
+Username: niraj.
+Password: 12345.
 After logging in, you will be directed to the main dashboard where you can manage student and teacher data, attendance, and more.
 
-Requirements
-.NET Framework 4.7.2 or higher
-Visual Studio 2019 or later
+Requirements:-
+.NET Framework 4.7.2 or higher.
+Visual Studio 2019 or later.
 
 Note:-
 This School Management System is a work in progress. I am actively making changes and updates to improve its functionality. Stay tuned for the latest updates and improvements to the system.
